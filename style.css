@@ -1,0 +1,61 @@
+.canto {
+
+    display: inline-block;
+
+    border: 1px solid black;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: red;
+
+}
+
+.vermelho{
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: red;
+}
+
+.azul{
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: rgb(0, 208, 255);
+}
+
+.verde{
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: rgb(67, 185, 69);
+}
+
+.amarelo{
+    display: inline-block;
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    background-color: yellow;
+}
